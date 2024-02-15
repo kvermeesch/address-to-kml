@@ -1,0 +1,58 @@
+<Document xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <name>sample_orders.kml</name>
+  <Folder>
+    <name>Markers</name>
+    <Placemark>
+      <name>25</name>
+      <description>Saint Mary (25)
+114 St. Mary&#8217;s Place
+Laurel, MD 20707
+phone 1: 301-725-3080 
+phone 2: (###) ###-####
+e-mail: admin@stmaryofthemills.org 
+Notes: stack between church and school</description>
+      <Point>
+        <coordinates>-76.8836261,39.10436869999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>45</name>
+      <description>Saint Francis (45)
+8300 Old Columbia Rd
+Fulton, MD 20759
+phone 1: (410) 792-0470
+phone 2: (###) ###-####
+e-mail: office@instrumentofpeace.org
+Notes: leave by mailbox</description>
+      <Point>
+        <coordinates>-76.907889,39.145235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>30</name>
+      <description>Saint Nicholas (30)
+8603 Contee Rd
+Laurel, MD 20708
+phone 1: (301) 490-5116
+phone 2: (###) ###-####
+e-mail: st.nicholaschurch@verizon.net
+Notes: leave in corner of parking lot</description>
+      <Point>
+        <coordinates>-76.858556,39.0723569</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>40</name>
+      <description>Resurrection Church (40)
+8402 Brock Bridge Rd
+Laurel, MD 20724
+phone 1: 410-792-7982 
+phone 2: (###) ###-####
+e-mail: Rool@archbalt.org 
+Notes: call when arriving</description>
+      <Point>
+        <coordinates>-76.8206641,39.1170899</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
